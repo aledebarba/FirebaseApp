@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "269986064194",
+    "firebase_url": "https://mob-13-firebase.firebaseio.com",
+    "project_id": "mob-13-firebase",
+    "storage_bucket": "mob-13-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269986064194:android:4f82d9eb394efece",
+        "android_client_info": {
+          "package_name": "com.alemacedo.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269986064194-58kskd3ovcvpot5s5p13kns68h58oqkp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alemacedo.firebaseapp",
+            "certificate_hash": "691f5041c18a81e82604a379f66579872e829f8c"
+          }
+        },
+        {
+          "client_id": "269986064194-3c8h08fektufqr577kp58496odo17pmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyi80QNjUle66wqOe8Tc4IxK5GUFs1i8E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269986064194-3c8h08fektufqr577kp58496odo17pmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
